@@ -31,18 +31,6 @@ body {
   border-top: 1px solid #e5e5e5;
 }
 
-.jumbotron{
-    background-image: url('../images/ChelseaBanner.jpg') no-repeat center center;
-}
-
-/*.jumbotron {
-    position: relative;
-    background: #000 url("../images/ChelseaBanner,jpg") center center;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    overflow: hidden;
-}*/
 
 /*************  MEDIA QUERIES  ***********/ 
 
